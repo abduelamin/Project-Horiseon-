@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-This project offers a read-only webpage emphasising improved accessibility and efficient code practices. You can access the webpage [here](https://abduelamin.github.io/Project-Horiseon/), where you can explore ways to enhance SEO while maintaining the webpage's core content.
+This project offers a read-only webpage emphasising improved accessibility and efficient code practices. You can access the webpage [here](https://abduelamin.github.io/Project-Horiseon-/), where you can explore ways to enhance SEO while maintaining the webpage's core content.
 
 ## Credits
 
