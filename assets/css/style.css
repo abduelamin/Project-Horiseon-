@@ -3,15 +3,15 @@
       - Renamed it to benefits-contianer just to specify what this div actually does (contains the benefits information). Also so that I can use the 'benefits' class to group the 3 subsections together as they invlove repeating of code for both img and text.
       - Removed repeat code e.g. font-family
       - corrected syntax errors
-      - Simplified the selector for h1, nav, ul, li and .seo as theres only one of each therefore no need to use a combinator selector.
+      - Simplified the selector for h1, nav, ul, li and .seo as there is only one of each therefore no need to use a combinator selector.
       - h2, h3 and h4 were being selected with via a class combinator selector, I simplified it to use only the h2, h3 + h4 as the selector. 
 
 */
 
 * {
     box-sizing: border-box;
-    padding: 0;
-    margin: 0;
+    padding: 0px;
+    margin: 0px;
 }
 
 body {
